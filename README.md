@@ -1,5 +1,6 @@
 # Chat
-
+![Screen1](https://github.com/GregoryKolosov/Chat/blob/master/Chat1Gif.gif)
+![Screen2](https://github.com/GregoryKolosov/Chat/blob/master/Chat2Gif.gif)
 ## Features
 * Registration by mail.
 * Real time messaging.
